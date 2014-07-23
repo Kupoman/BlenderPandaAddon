@@ -1,0 +1,3 @@
+[submodule "realtime_engine"]
+	path = realtime_engine
+	url = git@github.com:Kupoman/BlenderRealtimeEngineAddon.git
